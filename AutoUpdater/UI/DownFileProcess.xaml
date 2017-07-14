@@ -1,0 +1,22 @@
+﻿<my:WindowBase  xmlns:my="clr-namespace:AutoUpdater" x:Class="AutoUpdater.UI.DownFileProcess"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="软件更新提醒" Height="300" Width="450" x:Name="w">
+    <Grid Background="#f0f0f0">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition  Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="versionLabel" Foreground="Black" TextAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <ScrollViewer Width="430" Grid.Row="1" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+                <TextBlock x:Name="txtDes" TextWrapping="Wrap" Foreground="Black" Width="400"></TextBlock>
+            </ScrollViewer>
+        </Grid>
+        <Grid x:Name="processGrid" Background="#f0f0f0">
+            <Rectangle x:Name="rectProcess" Fill="#6ed1df" Width="0" HorizontalAlignment="Left" ></Rectangle>
+            <TextBlock x:Name="txtProcess" Foreground="Black" TextAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        </Grid>
+        
+    </Grid>
+</my:WindowBase >

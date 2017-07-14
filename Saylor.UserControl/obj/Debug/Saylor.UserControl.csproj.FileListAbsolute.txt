@@ -1,0 +1,12 @@
+E:\个人项目\SaylorTool\Saylor.UserControl\bin\Debug\Saylor.UserControl.dll
+E:\个人项目\SaylorTool\Saylor.UserControl\bin\Debug\Saylor.UserControl.pdb
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\Saylor.UserControl_MarkupCompile.cache
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\Saylor.UserControl_MarkupCompile.lref
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\Themes\Generic.baml
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\Saylor.UserControl.g.resources
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\Saylor.UserControl.Properties.Resources.resources
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\Saylor.UserControl.csproj.GenerateResource.Cache
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\Saylor.UserControl.dll
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\Saylor.UserControl.pdb
+E:\个人项目\SaylorTool\Saylor.UserControl\obj\Debug\Saylor.UserControl.csprojResolveAssemblyReference.cache

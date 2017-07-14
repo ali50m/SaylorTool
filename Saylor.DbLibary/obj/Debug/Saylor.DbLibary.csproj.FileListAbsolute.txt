@@ -1,0 +1,11 @@
+E:\个人项目\SaylorTool\Saylor.DbLibary\bin\Debug\Saylor.DbLibary.dll
+E:\个人项目\SaylorTool\Saylor.DbLibary\bin\Debug\Saylor.DbLibary.pdb
+E:\个人项目\SaylorTool\Saylor.DbLibary\bin\Debug\System.Data.SQLite.dll
+E:\个人项目\SaylorTool\Saylor.DbLibary\obj\Debug\Saylor.DbLibary.csprojResolveAssemblyReference.cache
+E:\个人项目\SaylorTool\Saylor.DbLibary\obj\Debug\Saylor.DbLibary.dll
+E:\个人项目\SaylorTool\Saylor.DbLibary\obj\Debug\Saylor.DbLibary.pdb
+C:\Users\qq\Desktop\部署20170419\Saylor.DbLibary\bin\Debug\Saylor.DbLibary.dll
+C:\Users\qq\Desktop\部署20170419\Saylor.DbLibary\bin\Debug\Saylor.DbLibary.pdb
+C:\Users\qq\Desktop\部署20170419\Saylor.DbLibary\obj\Debug\Saylor.DbLibary.csprojResolveAssemblyReference.cache
+C:\Users\qq\Desktop\部署20170419\Saylor.DbLibary\obj\Debug\Saylor.DbLibary.dll
+C:\Users\qq\Desktop\部署20170419\Saylor.DbLibary\obj\Debug\Saylor.DbLibary.pdb
