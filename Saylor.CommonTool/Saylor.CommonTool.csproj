@@ -48,9 +48,8 @@
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
-    <Reference Include="SharpConfig, Version=3.1.0.0, Culture=neutral, PublicKeyToken=c1deedac91bd7724, processorArchitecture=MSIL">
-      <HintPath>..\..\Dispatcher_HP.APP - 2013\packages\sharpconfig.3.1.0\lib\net20\SharpConfig.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="SharpConfig">
+      <HintPath>..\packages\SharpConfig.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -74,6 +73,7 @@
     <Compile Include="Exe\ExeHelper.cs" />
     <Compile Include="FileAndDirectory\DirectoryToolHelper.cs" />
     <Compile Include="FileAndDirectory\FileToolHelper.cs" />
+    <Compile Include="GUID\GuidHelper.cs" />
     <Compile Include="IP\IPHelper.cs" />
     <Compile Include="Json\JsonHelper.cs" />
     <Compile Include="Log\AppPromptHelper.cs" />

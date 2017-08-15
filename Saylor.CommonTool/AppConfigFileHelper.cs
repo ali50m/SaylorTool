@@ -11,7 +11,7 @@ namespace Saylor.CommonTool
 {
     public class AppConfigFileHelper
     {
-        static Configuration  config = Configuration.LoadFromFile("config.ini");
+        static Configuration config = Configuration.LoadFromFile("config.ini");
         public static string GetAppConfig(string strKey)
         {
             foreach (string key in System.Configuration.ConfigurationManager.AppSettings)
@@ -37,7 +37,7 @@ namespace Saylor.CommonTool
                 Log4NetHelper.WriteErrorLog(ex);
                 return "";
             }
-            
+
         }
     }
 }
